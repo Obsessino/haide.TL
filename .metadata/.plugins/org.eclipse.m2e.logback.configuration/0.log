@@ -1,0 +1,426 @@
+2018-09-13 10:11:53,978 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.jt.1803:jt-parent:0.0.1-SNAPSHOT @ D:\zhangjiujun\teach\cgb\jtMobile\jt-parent\pom.xml.
+2018-09-13 10:13:13,659 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jt.1803:jt-common:0.0.1-SNAPSHOT @ D:\zhangjiujun\teach\cgb\jtMobile\jt-common\pom.xml.
+2018-09-13 10:13:16,430 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-13 10:13:16,432 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:13:16,434 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-13 10:13:16,435 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:13:19,249 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-13 10:13:19,252 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:13:19,254 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-13 10:13:19,254 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:14:22,883 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jt.1803:jt-manage:0.0.1-SNAPSHOT @ D:\zhangjiujun\teach\cgb\jtMobile\jt-manage\pom.xml.
+2018-09-13 10:14:26,681 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:14:26,684 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-09-13 10:14:26,733 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:14:26,734 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-manage\src\test\resources
+2018-09-13 10:15:01,762 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:15:01,780 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-09-13 10:15:01,825 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:15:01,826 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-manage\src\test\resources
+2018-09-13 10:15:49,720 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jt.1803:jt-sso:0.0.1-SNAPSHOT @ D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\pom.xml.
+2018-09-13 10:15:52,361 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:15:52,364 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-09-13 10:15:52,423 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:15:52,424 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:16:17,484 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:16:17,490 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-09-13 10:16:17,543 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:16:17,544 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:16:18,919 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jt.1803:jt-cart:0.0.1-SNAPSHOT @ D:\zhangjiujun\teach\cgb\jtMobile\jt-cart\pom.xml.
+2018-09-13 10:16:21,885 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:16:21,887 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-09-13 10:16:21,929 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:16:21,931 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-cart\src\test\resources
+2018-09-13 10:16:48,522 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:16:48,536 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-09-13 10:16:48,577 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:16:48,578 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-cart\src\test\resources
+2018-09-13 10:16:48,811 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jt.1803:jt-order:0.0.1-SNAPSHOT @ D:\zhangjiujun\teach\cgb\jtMobile\jt-order\pom.xml.
+2018-09-13 10:16:51,449 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:16:51,450 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-09-13 10:16:51,505 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:16:51,506 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-order\src\test\resources
+2018-09-13 10:17:50,252 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:17:50,260 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-09-13 10:17:50,311 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:17:50,313 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-order\src\test\resources
+2018-09-13 10:17:51,375 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jt.1803:jt-web:0.0.1-SNAPSHOT @ D:\zhangjiujun\teach\cgb\jtMobile\jt-web\pom.xml.
+2018-09-13 10:17:53,957 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:17:53,959 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-13 10:17:53,995 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:17:53,997 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-web\src\test\resources
+2018-09-13 10:18:49,502 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:18:49,509 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-13 10:18:49,546 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:18:49,547 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-web\src\test\resources
+2018-09-13 10:20:35,577 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:20:35,580 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:20:35,581 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:20:35,582 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:20:46,803 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:20:46,806 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:20:46,808 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:20:46,810 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:32:19,981 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:32:19,984 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-09-13 10:32:19,987 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:32:19,988 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:34:44,094 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jt.1803:jt-sso:0.0.1-SNAPSHOT @ D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\pom.xml.
+2018-09-13 10:34:46,505 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:34:46,507 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-09-13 10:34:46,545 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:34:46,546 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:34:48,010 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:34:48,016 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-09-13 10:34:48,054 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:34:48,055 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:35:15,138 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:35:15,143 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:35:15,145 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:35:15,146 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:37:11,665 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:37:11,666 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:37:11,667 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:37:11,668 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:37:28,083 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:37:28,086 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:37:28,087 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:37:28,088 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:37:41,937 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:37:41,938 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:37:41,939 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:37:41,941 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:39:08,994 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:08,996 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-13 10:39:09,001 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:09,002 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-cart\src\test\resources
+2018-09-13 10:39:09,026 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:09,028 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-13 10:39:09,033 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:09,034 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-manage\src\test\resources
+2018-09-13 10:39:10,365 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:10,367 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-13 10:39:10,373 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:10,374 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-order\src\test\resources
+2018-09-13 10:39:10,395 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:10,397 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-13 10:39:10,403 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:10,405 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:39:11,695 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:11,696 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-13 10:39:11,702 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:11,704 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-web\src\test\resources
+2018-09-13 10:39:54,018 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:54,021 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:39:54,022 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:39:54,023 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-web\src\test\resources
+2018-09-13 10:40:11,955 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:40:11,960 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:40:11,961 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:40:11,965 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-web\src\test\resources
+2018-09-13 10:41:01,687 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:41:01,689 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:41:01,690 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:41:01,691 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-cart\src\test\resources
+2018-09-13 10:41:19,160 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:41:19,162 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:41:19,163 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:41:19,164 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-cart\src\test\resources
+2018-09-13 10:41:49,066 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:41:49,070 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:41:49,071 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:41:49,073 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-order\src\test\resources
+2018-09-13 10:42:00,583 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:42:00,586 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:42:00,587 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:42:00,590 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-order\src\test\resources
+2018-09-13 10:44:53,258 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-parent
+2018-09-13 10:44:53,260 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-13 10:45:07,105 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-common
+2018-09-13 10:45:07,106 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-13 10:45:16,572 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-13 10:45:16,574 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:45:16,575 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-13 10:45:16,575 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-13 10:45:25,295 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-manage
+2018-09-13 10:45:25,296 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-13 10:45:46,716 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:45:46,723 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-09-13 10:45:46,727 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:45:46,729 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-manage\src\test\resources
+2018-09-13 10:45:52,625 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-sso
+2018-09-13 10:45:52,625 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-13 10:46:04,561 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:46:04,570 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-09-13 10:46:04,577 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:46:04,578 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-sso\src\test\resources
+2018-09-13 10:46:10,494 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-cart
+2018-09-13 10:46:10,494 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-13 10:46:19,761 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:46:19,767 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-09-13 10:46:19,772 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:46:19,774 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-cart\src\test\resources
+2018-09-13 10:46:27,936 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-order
+2018-09-13 10:46:27,937 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-13 10:46:37,980 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:46:37,991 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-09-13 10:46:37,999 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:46:38,001 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-order\src\test\resources
+2018-09-13 10:46:44,788 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-web
+2018-09-13 10:46:44,788 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-13 10:46:59,957 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:46:59,964 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-13 10:46:59,970 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-13 10:46:59,971 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\jt-web\src\test\resources
+2018-09-13 10:47:58,610 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-manage
+2018-09-13 10:47:58,611 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-13 10:49:08,643 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-sso
+2018-09-13 10:49:08,644 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-13 10:50:55,366 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-cart
+2018-09-13 10:50:55,366 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-13 10:51:59,304 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-order
+2018-09-13 10:51:59,305 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-13 10:52:56,860 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-web
+2018-09-13 10:52:56,860 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-13 12:06:12,659 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-sso
+2018-09-13 12:06:12,715 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-13 12:06:49,992 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-web
+2018-09-13 12:06:49,993 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-13 12:07:44,496 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-sso
+2018-09-13 12:07:44,497 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-13 12:08:20,314 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\jt-web
+2018-09-13 12:08:20,314 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-18 20:54:33,006 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 20:54:33,019 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 20:54:33,022 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 20:54:33,023 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 20:54:37,320 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:37,333 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-09-18 20:54:37,391 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:37,392 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-cart\src\test\resources
+2018-09-18 20:54:41,007 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:41,011 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-09-18 20:54:41,054 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:41,055 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-manage\src\test\resources
+2018-09-18 20:54:42,350 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:42,358 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-09-18 20:54:42,450 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:42,451 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-order\src\test\resources
+2018-09-18 20:54:45,738 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:45,748 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-09-18 20:54:45,802 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:45,804 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-sso\src\test\resources
+2018-09-18 20:54:47,738 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:47,754 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 20:54:47,814 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:54:47,817 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 20:57:45,902 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:57:45,912 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 20:57:45,914 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:57:45,919 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 20:58:13,163 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:58:13,192 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 20:58:13,199 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:58:13,200 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 20:58:14,271 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:58:14,289 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 20:58:14,308 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:58:14,320 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 20:58:32,892 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:58:32,899 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 20:58:32,905 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:58:32,907 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 20:59:11,257 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:59:11,261 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 20:59:11,266 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:59:11,267 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 20:59:45,713 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:59:45,719 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 20:59:45,723 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 20:59:45,724 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:00:04,237 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:00:04,245 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:00:04,257 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:00:04,260 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:01:02,304 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:01:02,311 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:01:02,315 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:01:02,317 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:01:09,744 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:01:09,753 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:01:09,756 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:01:09,758 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:01:39,583 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:01:39,588 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:01:39,592 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:01:39,593 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:02:15,795 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:02:15,801 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:02:15,806 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:02:15,807 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:06:46,428 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:06:46,437 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:06:46,441 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:06:46,442 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:07:32,405 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:07:32,409 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:07:32,410 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:07:32,412 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:08:16,058 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:08:16,065 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:08:16,068 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:08:16,070 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:08:17,200 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:08:17,203 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:08:17,205 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:08:17,207 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:09:01,788 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:09:01,793 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:09:01,797 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:09:01,798 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:10:42,450 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jt-cart
+2018-09-18 21:10:45,189 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jt-manage
+2018-09-18 21:10:46,651 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jt-order
+2018-09-18 21:10:49,062 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jt-sso
+2018-09-18 21:10:50,965 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jt-web
+2018-09-18 21:10:53,178 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 21:10:53,179 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:10:53,180 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 21:10:53,181 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:10:54,695 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:10:54,701 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-09-18 21:10:54,769 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:10:54,770 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-cart\src\test\resources
+2018-09-18 21:10:54,771 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jt-cart
+2018-09-18 21:10:54,772 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jt-cart
+2018-09-18 21:10:54,822 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:10:58,235 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:10:58,236 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:10:58,237 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:10:58,238 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-cart\src\test\resources
+2018-09-18 21:10:59,768 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:10:59,776 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-09-18 21:10:59,898 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:10:59,900 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-manage\src\test\resources
+2018-09-18 21:10:59,901 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jt-manage
+2018-09-18 21:10:59,902 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jt-manage
+2018-09-18 21:10:59,910 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:01,300 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:01,305 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2018-09-18 21:11:01,372 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:01,373 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-order\src\test\resources
+2018-09-18 21:11:01,373 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jt-order
+2018-09-18 21:11:01,373 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jt-order
+2018-09-18 21:11:01,377 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:05,331 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:05,333 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:11:05,334 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:05,336 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-order\src\test\resources
+2018-09-18 21:11:06,973 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:06,975 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-09-18 21:11:07,022 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:07,024 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-sso\src\test\resources
+2018-09-18 21:11:07,024 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jt-sso
+2018-09-18 21:11:07,024 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jt-sso
+2018-09-18 21:11:07,028 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:09,456 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:09,458 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:11:09,488 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:11:09,490 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:11:09,490 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jt-web
+2018-09-18 21:11:09,490 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jt-web
+2018-09-18 21:11:09,494 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:15:26,731 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:15:26,735 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:15:26,737 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:15:26,741 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-cart\src\test\resources
+2018-09-18 21:15:28,153 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:15:28,159 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:15:28,166 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:15:28,170 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-manage\src\test\resources
+2018-09-18 21:15:29,026 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:15:29,034 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:15:29,039 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:15:29,041 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:15:30,125 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:15:30,131 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:15:30,134 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:15:30,136 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:16:34,533 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:16:34,538 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:16:34,542 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:16:34,543 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:16:49,324 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:16:49,335 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:16:49,342 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:16:49,344 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:18:14,193 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:18:14,201 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:18:14,205 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:18:14,206 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:21:02,437 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:21:02,444 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:21:02,449 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:21:02,451 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:21:17,299 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:21:17,306 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:21:17,312 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:21:17,322 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:21:55,042 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:21:55,047 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:21:55,050 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:21:55,052 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:22:18,030 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:22:18,037 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:22:18,041 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:22:18,043 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:23:05,566 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:23:05,573 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:23:05,579 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:23:05,580 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:23:20,530 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:23:20,536 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:23:20,540 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:23:20,542 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:24:37,490 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:24:37,494 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-18 21:24:37,500 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:24:37,502 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-order\src\test\resources
+2018-09-18 21:30:59,599 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-manage
+2018-09-18 21:30:59,600 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-18 21:31:25,411 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-parent
+2018-09-18 21:31:25,411 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-18 21:31:42,893 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-common
+2018-09-18 21:31:42,893 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-18 21:31:50,218 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 21:31:50,220 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:31:50,221 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-18 21:31:50,221 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 21:31:55,846 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-manage
+2018-09-18 21:31:55,846 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-18 21:32:16,300 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:32:16,310 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2018-09-18 21:32:16,317 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:32:16,318 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-manage\src\test\resources
+2018-09-18 21:32:20,949 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-sso
+2018-09-18 21:32:20,949 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-18 21:32:30,553 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:32:30,576 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-09-18 21:32:30,588 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:32:30,592 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-sso\src\test\resources
+2018-09-18 21:32:39,138 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web
+2018-09-18 21:32:39,138 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml install
+2018-09-18 21:32:51,321 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:32:51,340 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2018-09-18 21:32:51,353 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 21:32:51,356 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web\src\test\resources
+2018-09-18 21:32:57,470 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-manage
+2018-09-18 21:32:57,470 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-18 21:33:26,247 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-sso
+2018-09-18 21:33:26,247 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-18 21:33:43,133 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-cart
+2018-09-18 21:33:43,133 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-18 21:33:50,201 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-order
+2018-09-18 21:33:50,201 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2018-09-18 21:33:55,656 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\zhangjiujun\teach\cgb\jtMobile\version\v2\001 京淘初始代码\jt-web
+2018-09-18 21:33:55,656 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s D:\first\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml tomcat7:run
